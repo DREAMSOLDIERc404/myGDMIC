@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "iGDMIC"
+rootProject.name = "myGDMIC"
 include(":app")
  

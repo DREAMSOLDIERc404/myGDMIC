@@ -1,4 +1,4 @@
-package com.example.igdmic
+package com.example.mygdmic
 
 import org.junit.Test
 
