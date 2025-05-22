@@ -6,11 +6,12 @@
 
 ---
 
-## ✨ Cos'è GDMIC-SCANNER?
+## ✨ Cos'è GDMIC?
 
-GDMIC-SCANNER è uno strumento per la lettura, identificazione e gestione di tag GDM (Generic Data Module), comunemente utilizzati per la sicurezza e identificazione NFC/RFID.  
-> _Ispirato alle discussioni e alle guide del [forum Proxmark3](https://www.proxmark.org/forum/)._
-
+GDMIC-SCANNER è un tipo di tag ISO-14443A che emula diversi tipi di tag tra cui il celeberrimo Mifare Classic 1K.  
+Più nel dettaglio, è uno dei 2 tipi esistenti di magicTag GEN4 (GTU e GDM).  
+I GDM sono molto più economici dei GTU, ognuno dei primi costa infatti 3/2€ contro i 10/20€ dei secondi.
+Questa app permette di programmarli andando a scrivere il loro blocco di settaggio (blocco nascosto) e abilitarne le varie funzionalità.
 ---
 
 ## 🚀 Funzionalità Principali
