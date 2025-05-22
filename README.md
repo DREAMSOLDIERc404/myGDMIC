@@ -4,7 +4,6 @@
 
 > **Una potente app per progrmamare i tag GDM, sviluppato con ❤️ e Android Studio**
 
----
 
 ## ✨ Cos'è GDMIC?
 
@@ -12,7 +11,7 @@ GDMIC-SCANNER è un tipo di tag ISO-14443A che emula diversi tipi di tag tra cui
 Più nel dettaglio, è uno dei 2 tipi esistenti di magicTag GEN4 (GTU e GDM).  
 I GDM sono molto più economici dei GTU, ognuno dei primi costa infatti 3/2€ contro i 10/20€ dei secondi.
 Questa app permette di programmarli andando a scrivere il loro blocco di settaggio (blocco nascosto) e abilitarne le varie funzionalità.
----
+
 
 ## 🚀 Funzionalità Principali
 
