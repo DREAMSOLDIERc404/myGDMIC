@@ -5,7 +5,9 @@
 > **Una potente app per progrmamare i tag GDM, sviluppato con ❤️ e Android Studio**
 
 
-## ✨ Cos'è GDMIC?
+## 🏷️ Info sui tag GDM
+
+> ⚡ **Cosa sono i tag GDM?**
 
 GDMIC-SCANNER è un tipo di tag ISO-14443A che emula diversi tipi di tag tra cui il celeberrimo Mifare Classic 1K.  
 Più nel dettaglio, è uno dei 2 tipi esistenti di magicTag GEN4 (GTU e GDM).  
@@ -22,21 +24,6 @@ Questa app permette di programmarli andando a scrivere il loro blocco di settagg
 - **Supporto per futuri aggiornamenti e nuovi tipi di tag**
 
 ![Scanner GIF](https://media.giphy.com/media/3o6Yg1hX3lG9O3x4tC/giphy.gif)
-
----
-
-## 🏷️ Info sui tag GDM
-
-> ⚡ **Cosa sono i tag GDM?**
-
-I tag GDM sono moduli di dati generici utilizzati per identificazione sicura in ambiente NFC/RFID.  
-Nel [forum Proxmark3](https://www.proxmark.org/forum/viewtopic.php?id=10998), si discute delle specifiche dei tag GDM, tra cui:
-
-- **UID**: identificatore unico, spesso a 7 byte
-- **Protocolli supportati**: ISO14443A/B, MIFARE
-- **Applicazioni tipiche**: controllo accessi, ticketing, autenticazione
-
-Per dettagli tecnici e reverse engineering visita la [sezione GDM del forum Proxmark3](https://www.proxmark.org/forum/search.php?action=search&keywords=GDM).
 
 ---
 
